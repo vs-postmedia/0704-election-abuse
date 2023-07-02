@@ -24,6 +24,18 @@
 }
 
 
+/* LEGEND */
+.abusive {
+	color: var(--blue01);
+	font-family: BentonSansCond-Bold, sans-serif;
+	font-weight: 800;
+}
+.non-abusive {
+	color: var(--grey02);
+	font-family: BentonSansCond-Bold, sans-serif;
+	font-weight: 800;
+}
+
 
 
 
